@@ -58,7 +58,8 @@ header > p {
     text-align: center;
     font-size: 1.2em;
     color: white;
-    width: 450px;
+    max-width: 500px;
+    width: 90%;
     margin: auto;
     margin-bottom: 20px;
     padding-right: 10px;
